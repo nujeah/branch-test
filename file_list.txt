@@ -1,0 +1,6 @@
+total 0
+-rw-r--r-- 1 gowns 197609 0 Oct 17 16:59 file_list.txt
+drwxr-xr-x 1 gowns 197609 0 Oct 17 16:58 new_directory/
+total 1.0K
+-rw-r--r-- 1 gowns 197609 119 Oct 17 16:59 file_list.txt
+drwxr-xr-x 1 gowns 197609   0 Oct 17 16:58 new_directory/
